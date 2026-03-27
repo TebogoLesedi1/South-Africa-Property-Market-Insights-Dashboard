@@ -40,7 +40,7 @@ The goal of this project was to visualize property data and uncover insights tha
 Related Project
 
 This dashboard builds on my SQL analysis project:
-(Add your SQL GitHub link here)
+https://github.com/TebogoLesedi1/SQL-Property-Data
 
  Contact
 Tebogo Lesedi  
