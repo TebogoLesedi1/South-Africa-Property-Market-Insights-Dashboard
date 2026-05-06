@@ -1,47 +1,71 @@
- South-Africa-Property-Market-Insights-Dashboard
+# South Africa Property Market Insights Dashboard
 
-This project is a continuation of my SQL mini project, where I analyzed a large residential property dataset across South Africa.
+A comprehensive Power BI dashboard analyzing residential property data across South Africa, providing actionable insights for data-driven decision-making in the real estate sector.
 
-In this phase, I used Power BI to transform the data into an interactive dashboard, enabling clear and actionable insights into the property market.
+## 📊 Project Overview
 
- Project Overview
+This project is a continuation of my [SQL mini project](https://github.com/TebogoLesedi1/SQL-Property-Data_), where I analyzed a large residential property dataset. In this phase, I transformed the raw data into an interactive, visually compelling dashboard using Power BI to uncover market trends and patterns.
 
-The goal of this project was to visualize property data and uncover insights that can support data-driven decision-making in the real estate sector.
+## 🎯 Key Features
 
- Key Features
+- **Interactive Dashboard** with KPIs, filters, and drill-down capabilities
+- **Price Analysis** by province and city to identify market trends
+- **Top 10 Most Expensive Cities** ranking for investment insights
+- **Size-Price Correlation** analysis to understand property valuation drivers
+- **Geographic Distribution** of properties and pricing patterns across regions
+- **Dynamic Filtering** capabilities for detailed market exploration
 
-- Interactive dashboard with KPIs and filters  
-- Price analysis by province and city  
-- Top 10 most expensive cities  
-- Relationship between property size and price  
-- City-level property distribution and pricing  
+## 📈 Key Insights
 
- Tools & Technologies
+- **Western Cape** leads with the highest average property prices
+- **Gauteng** dominates with the highest number of property listings
+- **Positive Correlation** between property size and market price
+- **Concentrated High-Value Properties** in specific urban centers
 
-- Power BI  
-- SQL (data extraction and analysis)  
-- DAX (data modeling and calculations)  
+## 🛠️ Tools & Technologies
 
+| Technology | Usage |
+|-----------|-------|
+| **Power BI** | Interactive dashboard creation and visualization |
+| **SQL** | Data extraction, cleaning, and analysis |
+| **DAX** | Advanced data modeling and calculations |
 
- Key Insights
+## 📁 Files Included
 
-- Western Cape has the highest average property prices  
-- Gauteng has the highest number of property listings  
-- Property size shows a positive relationship with price  
-- High-value properties are concentrated in specific cities  
+| File | Description |
+|------|-------------|
+| `South African Property Market Dashboard.pbix` | Main Power BI dashboard file with all visualizations and data models |
+| `dashboard1.png` | Dashboard preview screenshot |
+| `README.md` | Project documentation |
 
- Dashboard Preview
+## 🎨 Dashboard Preview
 
- Files Included
+![Dashboard Preview](dashboard1.png)
 
-- Power BI dashboard (.pbix)  
-- Dataset    
+*Interactive visualizations showing property distribution, pricing trends, and market analysis across South African cities and provinces.*
 
-Related Project
+## 🔗 Related Projects
 
-This dashboard builds on my SQL analysis project:
-https://github.com/TebogoLesedi1/SQL-Property-Data_
+- **[SQL Property Data Analysis](https://github.com/TebogoLesedi1/SQL-Property-Data_)** - The foundational SQL analysis project that informed this dashboard
 
- Contact
-Tebogo Lesedi  
-Open to opportunities in Data Analytics & Data Science
+## 💡 How to Use
+
+1. Download or clone the repository
+2. Open `South African Property Market Dashboard.pbix` in Power BI Desktop
+3. Interact with the dashboard filters to explore different regions and price ranges
+4. Use the visualizations to identify market opportunities and trends
+
+## 📧 Contact & Opportunities
+
+**Tebogo Lesedi**
+
+I'm open to opportunities in:
+- 📊 Data Analytics
+- 🤖 Data Science
+- 💼 Business Intelligence
+
+Feel free to reach out for collaboration or inquiries!
+
+---
+
+*Last Updated: May 2026*
